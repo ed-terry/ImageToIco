@@ -7,7 +7,7 @@ A powerful and modern CLI and GUI application to convert images to ICO format wi
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 
-## ✨ Features
+##  Features
 
 ### 🖥️ CLI Features
 
