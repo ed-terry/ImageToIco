@@ -1,0 +1,63 @@
+{
+  "name": "imageto-ico",
+  "version": "1.0.0",
+  "description": "A powerful CLI and GUI tool to convert images to ICO format",
+  "main": "src/main.js",
+  "bin": {
+    "imageto-ico": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "electron .",
+    "cli": "node src/cli.js",
+    "dev": "electron . --dev",
+    "build": "electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "keywords": [
+    "ico",
+    "icon",
+    "image",
+    "converter",
+    "cli",
+    "gui",
+    "electron"
+  ],
+  "author": "Edward Mwamba <sir_edward@icloud.com> (https://ed-terry.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.0",
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "cli-progress": "^3.12.0"
+  },
+  "devDependencies": {
+    "electron": "^27.0.0",
+    "electron-builder": "^24.6.4",
+    "tailwindcss": "^3.3.5"
+  },
+  "build": {
+    "appId": "com.imageto-ico.app",
+    "productName": "ImageToIco",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "src/**/*",
+      "renderer/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "assets/icon.icns"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "assets/icon.png"
+    }
+  }
+}
