@@ -281,7 +281,7 @@ If you encounter any issues or have questions:
 
 ## 👤 About The Author
 
-**Edward Mwamba** - Full Stack Developer
+**Edward Joseph Terry** - Full Stack Developer
 
 I'm passionate about building tools that making developers' lives easier. Check out my other projects and work:
 

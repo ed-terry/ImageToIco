@@ -22,7 +22,7 @@
     "gui",
     "electron"
   ],
-  "author": "Edward Mwamba <sir_edward@icloud.com> (https://ed-terry.github.io)",
+  "author": "Edward Joseph Terry <sir_edward@icloud.com> (https://ed-terry.github.io)",
   "license": "MIT",
   "dependencies": {
     "sharp": "^0.33.0",
