@@ -286,13 +286,13 @@ If you encounter any issues or have questions:
 I'm passionate about building tools that making developers' lives easier. Check out my other projects and work:
 
 - 💻 [Portfolio](https://ed-terry.github.io) - See my work and projects
-- 🐙 [GitHub](https://github.com/ed-terry) - Follow my repositories  
+- 🐙 [GitHub](https://github.com/ed-terry) - Follow my repositories
 - 📧 Email: [sir_edward@icloud.com](mailto:sir_edward@icloud.com)
 - 📱 Phone: +255 763 815 413
-- ☕ [Buy me a coffee](https://buymeacoffee.com/siredwardm) - Support my work
+- ☕ [Buy me a coffee](hhttps://buymeacoffee.com/edwardterry) - Support my work
 
 ---
 
-Made with ❤️ for the development community
+Made with ❤️ by Edward Terry
 
-**Happy Converting! 🎨✨**
+\*\*Happy Converting!
